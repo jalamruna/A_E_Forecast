@@ -7,7 +7,7 @@ project_setup <-function(){
   if(!dir.exists("Maps")){dir.create("Maps")}
   if(!dir.exists("Archive")){dir.create("Archive")}
   #Create sub-folders within folders. This sub folder is nested under Archive folder
-  if(dir.exists("Archive")){dir.create(("../Rprojects/Rwarehouse/Project/subfolder_new"))}
+  # if(dir.exists("Archive")){dir.create(("../Rprojects/Rwarehouse/Project/subfolder_new"))}
   
 } 
 
