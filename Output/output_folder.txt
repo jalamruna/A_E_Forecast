@@ -1,0 +1,1 @@
+This folder will include outputs produced by any scripts on this project 

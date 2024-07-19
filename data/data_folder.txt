@@ -1,5 +1,12 @@
 # This folder will include some data
+England-level time series from this website:
+https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2024-25/#Apr24
 
-# RTT Data
-# File: RTT-Overview-Timeseries-Including-Estimates-for-Missing-Trusts-Apr24-XLS-105K-11417.xlsx
+Download England-level time series file
+- RTT Overview Timeseries Including Estimates for Missing Trust Apr24 (xlsx, 105k)  file.
+- RTT Overview Timeseries Including Estimates for Missing Trust May24 (xlsx, 113k)  file.
+
+# RTT Data files
+# RTT-Overview-Timeseries-Including-Estimates-for-Missing-Trusts-Apr24-XLS-105K-11417.xlsx
+# RTT-Overview-Timeseries-Including-Estimates-for-Missing-Trusts-May24-XLS-113K-89156.xlsx
 
